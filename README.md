@@ -2,7 +2,7 @@
 # COMPUTER NUMBER: 2021484530
 
 # LAB-PARTNER NAME: BLESSING KABWE
-# COMPUTER NUMBER: 
+# COMPUTER NUMBER: 2021388034
 
 This project demonstrates a responsive multi-page website using modern CSS techniques including Flexbox, Grid, animations, and media queries.
 
