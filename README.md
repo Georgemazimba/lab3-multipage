@@ -17,11 +17,9 @@ This project demonstrates a responsive multi-page website using modern CSS techn
   - Properly sized images that adapt to screen size
 
 ## This implementation includes the following features:
-- Theme toggle with localStorage persistence
+- Theme toggle
 - Enhanced form validation with user feedback
 - Team members loaded from API
 - Interactive FAQ component
 - Back to top button (bonus feature)
-- All properly styled to match your existing design
-- Responsive across all device sizes
 - Dark mode support for all components
